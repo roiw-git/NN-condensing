@@ -1,0 +1,70 @@
+{
+    "48839": {
+        "times": {
+            "one_nn": {
+                "preprocess": 0.0,
+                "compression": {
+                    "none": 0.0
+                },
+                "inference": {
+                    "none": 0.10937762260437012
+                }
+            },
+            "greedy_weighted_heuristic": {
+                "preprocess": 5786.425854682922,
+                "compression": {
+                    "none": 0.0
+                },
+                "inference": {
+                    "none": 0.0830996036529541
+                }
+            },
+            "rss": {
+                "preprocess": 4770.739525794983,
+                "compression": {
+                    "none": 0.0
+                },
+                "inference": {
+                    "none": 0.048098087310791016
+                }
+            },
+            "mss": {
+                "preprocess": 30895.110857009888,
+                "compression": {
+                    "none": 0.0
+                },
+                "inference": {
+                    "none": 0.023478984832763672
+                }
+            }
+        },
+        "compression": {
+            "one_nn": {
+                "none": 1.0
+            },
+            "greedy_weighted_heuristic": {
+                "none": 0.39097852126374416
+            },
+            "rss": {
+                "none": 0.44106144679456993
+            },
+            "mss": {
+                "none": 0.28360531542414874
+            }
+        },
+        "error": {
+            "one_nn": {
+                "none": 0.5
+            },
+            "greedy_weighted_heuristic": {
+                "none": 0.0
+            },
+            "rss": {
+                "none": 0.5
+            },
+            "mss": {
+                "none": 0.5
+            }
+        }
+    }
+}
